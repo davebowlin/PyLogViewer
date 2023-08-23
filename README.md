@@ -30,4 +30,3 @@
 [MIT](https://choosealicense.com/licenses/mit/)  
 
 ## Screenshots  
-![App Screenshot](images/screenshot.png)  
